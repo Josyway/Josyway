@@ -1,8 +1,8 @@
 ### Olá 👋
 
 ###### Sobre o Josyway
-<img src='https://img.shields.io/badge/HTML-0077B5?style=for-the-badge&logo=</>&logoColor=white' alt='HTML' height='30'> <img src='https://img.shields.io/badge/CSS-0077B5?style=for-the-badge&logo=css&logoColor=white' alt='CSS' height='30'>
-<img src='https://img.shields.io/badge/JavaScript-0077B5?style=for-the-badge&logo=js&logoColor=white' alt='JavaScript' height='30'>
+<img src='https://img.shields.io/badge/HTML-0077B5?style=for-the-badge&logo=html&logoColor=white' alt='HTML' height='30'> <img src='https://img.shields.io/badge/CSS-0077B5?style=for-the-badge&logo=css&logoColor=white' alt='CSS' height='30'>
+<img src='https://img.shields.io/badge/JavaScript-0077B5?style=for-the-badge&logo=javascript&logoColor=white' alt='JavaScript' height='30'>
 <img src='https://img.shields.io/badge/Python-0077B5?style=for-the-badge&logo=python&logoColor=white' alt='Python' height='30'>
 
 
