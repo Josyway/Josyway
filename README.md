@@ -1,7 +1,7 @@
 ### Olá 👋
 
 ###### Sobre o Josyway
-<img src='https://img.shields.io/badge/Python?style=for-the-badge&logo=python&logoColor=white' alt='Python' height='30'>
+<img src='https://img.shields.io/badge/Python-?style=for-the-badge&logo=python&logoColor=good' alt='Python' height='30'>
 
 9 anos de experiencia como Contador e estou em transição de carreira, cursando: Desenvolvedor Full Stack Python pela Ebac.
 
