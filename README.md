@@ -9,8 +9,10 @@
 9 anos de experiencia como Contador e estou em transição de carreira, cursando: Desenvolvedor Full Stack Python pela Ebac.
 
 ### Detalhes
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josyway&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Josyway&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josyway&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ### Projetos
 
