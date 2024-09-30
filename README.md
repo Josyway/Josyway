@@ -18,12 +18,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josyway&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josyway&repo=Way_Contabilidade&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Josyway&repo=clone_disneyplus&theme=dark)](https://github.com/josyway/github-readme-stats)
-
-
 ### Contatos
 <div>
   <a href = "josywaypaulo@gmail.com"><img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_blank" ></ a >
