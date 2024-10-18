@@ -1,9 +1,9 @@
 ### Olá, sejam bem-vindos(as) ao meu perfil! Sou Josyway Paulo, Desenvolvedor Full Stack Python em transição de carreira. Atualmente, estou focando meu desenvolvimento profissional na área de tecnologia e programação. Como estudante de desenvolvimento full stack pela Ebac, tenho me dedicado a boas práticas, desde HTML até React, sempre buscando melhorar a performance e usabilidade das aplicações.
 
 #### Sobre mim!
-Sou formado em Gestão Ciências contabeis e tenho mais de 9 anos de experiência como analista fiscal. Durante essa trajetória, desenvolvi habilidades como pensamento analítico, resolução de problemas, foco nos resultados, trabalho em equipe e determinação.
+Sou formado em Ciências contabeis e tenho mais de 9 anos de experiência como analista fiscal. Durante essa trajetória, desenvolvi habilidades como pensamento analítico, resolução de problemas, foco nos resultados, trabalho em equipe e determinação.
 
-Estou em busca de oportunidades como Front-End ou Back-End Developer e tenho conhecimentos em  JavaScript, Node.js, React, HTML e CSS. Sou uma pessoa proativa, curioso e com sede de conhecimento. Adoro aprender coisas novas, assumir novos desafios e o principal finalizalos com exeto.
+Estou em busca de oportunidades como Front-End, Back-End ou Full Stack Python Developer e tenho conhecimentos em  JavaScript, Node.js, React, HTML e CSS. Sou uma pessoa proativa, curioso e com sede de conhecimento. Adoro aprender coisas novas, assumir novos desafios e o principal finalizalos com exeto.
 
 <div style = "display: inline_block">
   <img align = "center" alt = "Rafa-Js" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
